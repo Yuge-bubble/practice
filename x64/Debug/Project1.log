@@ -1,0 +1,8 @@
+﻿  easy_x-practice.cpp
+C:\vs project\Project1\Project1\easy_x-practice.cpp(11,16): error C2065: “text”: 未声明的标识符
+C:\vs project\Project1\Project1\easy_x-practice.cpp(12,30): error C2065: “text”: 未声明的标识符
+C:\vs project\Project1\Project1\easy_x-practice.cpp(13,31): error C2065: “text”: 未声明的标识符
+C:\vs project\Project1\Project1\easy_x-practice.cpp(14,19): error C2065: “text”: 未声明的标识符
+C:\vs project\Project1\Project1\easy_x-practice.cpp(18,2): error C2660: “button”: 函数不接受 5 个参数
+C:\vs project\Project1\Project1\easy_x-practice.cpp(4,6): message : 参见“button”的声明
+C:\vs project\Project1\Project1\easy_x-practice.cpp(18,2): message : 尝试匹配参数列表“(int, int, int, int, const char [5])”时
